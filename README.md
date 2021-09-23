@@ -9,7 +9,7 @@
 * **Gostaria de ajuda em:**  Poo 
 * **Fun facts:** Desenhista digital / tradicional nas horas vagas
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadCompany&theme=tokyonight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadCompany&theme=github_dark&show_icons=true)
 <svg viewBox="0 0 128 128">
  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badcompany&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
