@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-## __The kid has got a darkside_
+## __The kid has got a dark side_
 ###### Olá! Eu sou a Keley Santos e este é o meu perfil
 
 * **Atualmente aprendendo:**  Java | Python | C#
