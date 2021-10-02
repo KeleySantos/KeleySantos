@@ -14,7 +14,7 @@
  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badcompany&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
 
-### Linguagens que ultilizo: 
+### Linguagens que utilizo: 
 <div style="display: inline_block"><br>
 <i class="devicon-python-plain"></i>
 <img width=50&height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
