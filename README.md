@@ -3,18 +3,18 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 ## __The kid has got a dark side_
-###### Olá! Eu sou a Keley Santos e este é o meu perfil
+###### Olá! Me chamo Keley e este é o meu perfil
 
-* **Atualmente aprendendo:**  Java | Python | C#
-* **Gostaria de ajuda em:**  Poo 
-* **Fun facts:** Desenhista digital / tradicional nas horas vagas
+* **Atualmente aprendendo:**  Java | C# | MongoDB | PostgreSQL
+* **Gostaria de auxilio em:**  NoSQL
+* **Hobbies:** Ilustradora digital / tradicional
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadCompany&theme=github_dark&show_icons=true)
 <svg viewBox="0 0 128 128">
  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badcompany&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
 
-### Linguagens que utilizo: 
+### Linguagens que ultilizo: 
 <div style="display: inline_block"><br>
 <i class="devicon-python-plain"></i>
 <img width=50&height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
