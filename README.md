@@ -1,15 +1,13 @@
 <img align="right" alt="BadCompany" src="https://media.discordapp.net/attachments/570999936444006460/890361135407185930/a.jpg?width=200&height=200">
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 ## __The kid has got a dark side_
 ###### Olá! Me chamo Keley e este é o meu perfil
 
-* **Atualmente aprendendo:**  Java | C# | MongoDB | PostgreSQL
-* **Gostaria de auxilio em:**  NoSQL
-* **Hobbies:** Ilustradora digital / tradicional
+* **Atualmente aprendendo:**  JavaScript
+* **Gostaria de auxilio em:**  ...
+* **Hobbies:** Ilustração digital / tradicional
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadCompany&theme=github_dark&show_icons=true)
 <svg viewBox="0 0 128 128">
@@ -24,10 +22,9 @@
 <img width=50&height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img width=50&height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img width=50&height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-<img width=50&height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img width=50&height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+<img width=50&height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
           
-          
-
 ##
 
 <div> 
