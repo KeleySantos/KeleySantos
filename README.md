@@ -2,6 +2,8 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 ## __The kid has got a dark side_
 ###### Olá! Me chamo Keley e este é o meu perfil
 
@@ -14,7 +16,7 @@
  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badcompany&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
 
-### Linguagens que ultilizo: 
+### Linguagens que utilizo: 
 <div style="display: inline_block"><br>
 <i class="devicon-python-plain"></i>
 <img width=50&height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -22,6 +24,9 @@
 <img width=50&height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img width=50&height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img width=50&height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+<img width=50&height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+          
+          
 
 ##
 
