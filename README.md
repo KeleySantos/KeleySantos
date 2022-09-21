@@ -5,8 +5,8 @@
 ## __The kid has got a dark side_
 ###### Olá! Me chamo Keley e este é o meu perfil
 
-* **Atualmente aprendendo:**  JavaScript
-* **Gostaria de auxilio em:**  ...
+* **Atualmente aprendendo:**  JavaScript | CSS | HTML
+* **Gostaria de auxílio em:**  ...
 * **Hobbies:** Ilustração digital / tradicional
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadCompany&theme=github_dark&show_icons=true)
