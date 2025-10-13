@@ -2,8 +2,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
           
-## __The kid has got a dark side_
-###### Olá! Me chamo Keley e este é o meu perfil
+## Olá mundo! Me chamo Keley e este é o meu perfil
 
 * **Atualmente aprendendo:**  JavaScript | CSS | HTML
 * **Gostaria de auxílio em:**  ...
