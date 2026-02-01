@@ -1,4 +1,4 @@
-<img align="right" alt="BadCompany" src="https://media.discordapp.net/attachments/570999936444006460/890361135407185930/a.jpg?width=200&height=200">
+
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
           
@@ -7,7 +7,6 @@
 * **Atualmente aprendendo:**  Delphi e Kotlin
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadCompany&theme=github_dark&show_icons=true)
 <svg viewBox="0 0 128 128">
  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badcompany&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
